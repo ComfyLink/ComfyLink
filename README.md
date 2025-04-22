@@ -12,8 +12,13 @@ ComfyLink 是一款专业的工作流托管平台，帮助创作者快速将工�
 
 消除技术使用门槛。不需要关心复杂的工作流、模型、算力部署等问题，开箱即可创作。
 
-![网站页面](https://github.com/user-attachments/assets/18258cf3-abae-461b-9972-df7360df2655)
-
+# 应用展示
+应用列表
+![image](https://github.com/user-attachments/assets/a3f3a0b9-2bb6-4574-81e0-d61e601b91c0)
+生成创作
+![image](https://github.com/user-attachments/assets/cb303560-cfad-4c74-a3af-b10c923fe936)
+结果查看
+![image](https://github.com/user-attachments/assets/6adca7e9-d77d-483c-9b0f-bc3f5841a314)
 
 
 # 使用教程
